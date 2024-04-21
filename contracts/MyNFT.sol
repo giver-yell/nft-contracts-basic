@@ -8,5 +8,7 @@ contract MyNFT is ERC721 {
 
     constructor() ERC721("MyNFT", "MyNFT") {}
 
-    function nftMint() public {}
+    function nftMint(address to, uint256 tokenId) public {
+        _mint(to, tokenId);
+    }
 }
