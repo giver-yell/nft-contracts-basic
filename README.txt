@@ -1,3 +1,9 @@
+## Refference
+
+- udemy: 【注目スキル：DApp(分散アプリケーション)】体系的に学ぶ『スマートコントラクト』開発〜NFT編ステージ１〜
+【注目スキル：DApp(分散アプリケーション)】体系的に学ぶ『スマートコントラクト』開発〜NFT編ステージ１〜  
+[https://www.udemy.com/course/dappnft1/learn]
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
